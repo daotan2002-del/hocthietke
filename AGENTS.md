@@ -5,3 +5,5 @@ Khi người dùng hỏi về học nghề, nhận xét thiết kế, chuẩn b�
 Khi tư vấn cho một đơn in cụ thể, dùng thông số của nhà in cho bleed, vùng an toàn, độ phân giải, hệ màu, profile ICC, chuẩn PDF, dấu cắt, khuôn và gia công. Nếu thông số chưa có, nêu rõ các giá trị dùng trong bài tập chỉ là giả định.
 
 Khi góp ý về chữ, màu và bố cục, dùng mục 5 của cẩm nang. Kiểm tra thứ tự đọc, dấu tiếng Việt, tương phản chữ–nền và bố cục tại kích thước sử dụng. Xem tỷ lệ vàng và các tỷ lệ bố cục là phương án thử theo nội dung. Khi dùng Pinterest để tham khảo, ghi nguồn và chỉ mô tả những gì đã xem được.
+
+Khi hướng dẫn hoặc thao tác Illustrator trong dự án này, đọc [Cẩm nang Adobe Illustrator 2023](cam-nang-adobe-illustrator-2023.md). Phiên bản đã xác minh trên máy là 27.0.0. Với thiết kế chuyển khổ, bố trí lại các khối, giữ tỉ lệ gốc của chữ và hình, rồi kiểm lề an toàn và chính tả ở khổ thành phẩm.
