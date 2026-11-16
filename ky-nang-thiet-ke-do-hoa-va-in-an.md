@@ -39,3 +39,42 @@ Tham khảo [Chuẩn đầu ra Công nghệ Kỹ thuật In](https://fgam.hcmute
 - **Poster hoặc tờ rơi.** Làm từ brief đến tệp in. Khi xem hoặc in thử ở kích thước thật, kiểm tra thứ tự đọc, dấu tiếng Việt, vùng an toàn và tràn lề.
 - **Catalogue hoặc brochure.** Dùng lưới, kiểu đoạn và kiểu chữ nhất quán. Soát liên kết ảnh, thứ tự trang, cách gấp hoặc đóng cuốn, rồi kiểm PDF cuối.
 - **Tem nhãn hoặc hộp giấy.** Dùng khuôn đã xác nhận, đặt nội dung trên đúng mặt, kiểm lớp gia công và dựng mẫu gấp. Lưu brief, thông số, tệp in cuối và ảnh mẫu để trình bày trong portfolio.
+
+## 5. Chữ, màu sắc, bố cục và tỷ lệ vàng
+
+### Chọn chữ và dàn chữ
+
+- **Xếp thứ tự đọc trước khi chọn font.** Đánh dấu tiêu đề, nội dung chính, chi tiết phụ và lời kêu gọi hành động nếu có. Thử một họ chữ với các độ đậm khác nhau. Khi ghép họ chữ thứ hai, giao vai trò rõ ràng, chẳng hạn chữ hiển thị cho tiêu đề và chữ dễ đọc cho nội dung dài.
+- **Chỉnh khoảng cách ở ba cấp.** *Kerning* điều chỉnh khoảng cách một cặp ký tự, thường thấy rõ ở logo và tiêu đề. *Tracking* điều chỉnh đều khoảng cách chữ trong đoạn được chọn. *Leading* là khoảng cách giữa các đường chân chữ của hai dòng liên tiếp. Với thân bài, thử cỡ chữ, độ dài dòng và leading cùng nhau, rồi đọc liên tục vài đoạn để kiểm tra nhịp xuống dòng. [Adobe về kerning và tracking](https://helpx.adobe.com/indesign/desktop/format-and-style-text/tabs-indents-and-spacing/about-kerning-and-tracking.html) · [Butterick về độ dài dòng](https://practicaltypography.com/line-length.html)
+- **Thử tiếng Việt bằng nội dung thật.** Gõ các cụm như “ĐƯỜNG PHỐ”, “Tiếng Việt”, “tưởng tượng”, “cưỡi ngựa” bằng đúng kiểu chữ và độ đậm sẽ dùng. Soát chữ Đ/đ, dấu chồng, dấu ở chữ hoa và khoảng hở giữa hai dòng. Đọc lại ở kích thước in hoặc khoảng cách xem dự kiến. Khi thiết kế bộ chữ mới, kiểm tra các dấu và tổ hợp dấu trên nhiều ký tự. [Vanna Vu, dự án bộ chữ Ambi](https://typewest.letterformarchive.org/2021/VannaVu_Ambi.html)
+
+### Phối màu và kiểm tương phản
+
+- **Đặt vai trò cho màu trước khi mở rộng bảng màu.** Chọn màu nền hoặc màu chủ đạo, một màu hỗ trợ và màu nhấn cho chi tiết cần nổi. Thử bảng đơn sắc (một tông màu với các biến thể sáng và tối), tương đồng (các màu kề nhau), bổ túc (đối diện nhau) hoặc bộ ba màu cách đều trên vòng màu. Điều chỉnh độ sáng và độ bão hòa theo vai trò. Màu nhấn nên làm nổi đúng thông tin cần đọc. [Adobe Illustrator về Color Guide](https://helpx.adobe.com/illustrator/desktop/manage-colors/select-and-adjust-colors/about-selecting-colors.html)
+- **Kiểm từng cặp chữ–nền.** Chuyển thử sang thang xám để xem phân cấp có còn rõ. Với nội dung web áp dụng WCAG 2.2 AA, kiểm tỷ lệ tương phản tối thiểu 4,5:1 cho chữ thông thường và 3:1 cho chữ đủ lớn theo tiêu chí. Khi màu mang nghĩa, thêm nhãn, biểu tượng hoặc dấu hiệu phù hợp. Với ấn phẩm in, xem bản thử trên vật liệu dự kiến và dùng profile màu do nhà in xác nhận. [W3C về tương phản](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum) · [W3C về cách dùng màu](https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html) · [Adobe về kiểm màu in](https://helpx.adobe.com/acrobat/using/previewing-output-acrobat-pro.html)
+
+### Dựng bố cục và thử tỷ lệ
+
+- **Dựng bằng khối trước.** Quyết định điểm nhìn đầu tiên, sau đó đặt khối hình, tiêu đề và chi tiết. Căn theo các trục rõ ràng. Gom phần liên quan bằng khoảng cách gần, dùng khoảng trắng lớn hơn giữa các nhóm. Với catalogue, thiết lập lề, cột, khe cột và lưới đường chân chữ để các trang có nhịp nhất quán. [Adobe về lưới đường chân chữ](https://helpx.adobe.com/indesign/desktop/layout-and-grid-tools/grids/use-a-baseline-grid.html)
+- **Xem ở hai kích thước.** Ở dạng thumbnail, kiểm điểm nhấn và đường đi của mắt. Ở kích thước sử dụng, kiểm độ dễ đọc, ngắt dòng, khoảng trống và vị trí chữ so với lề xén hoặc nếp gấp. Với áp phích, thử đọc từ khoảng cách người xem thực sự đứng.
+
+| Cách chia | Cách dùng thử với vùng nội dung rộng 180 mm, trước khi trừ khe |
+| --- | --- |
+| 1:1 | 90 mm và 90 mm. Thử khi hai nhóm nội dung cần sức nặng tương đương. |
+| Tỷ lệ vàng, khoảng 1,618:1 | 111,2 mm và 68,8 mm. Thử khi hình chính cần nhiều chỗ hơn khối chữ, hoặc đảo vai trò nếu nội dung nhiều chữ. |
+| Quy tắc một phần ba | Chia thành ba phần 60 mm. Dùng đường chia 60 và 120 mm để đặt điểm nhấn hoặc chia hai khối theo 1:2. |
+
+Tỷ lệ vàng có giá trị chính xác `φ = (1 + √5) / 2`. Với hai phần `a > b`, tỷ lệ vàng thỏa `(a + b) / a = a / b`. Vì thế vùng chia xấp xỉ 61,8% và 38,2%. Nếu chừa khe 6 mm trong ví dụ 180 mm, chia 174 mm còn lại thành khoảng 107,5 mm và 66,5 mm. Tỷ lệ chỉ là điểm khởi đầu. Thử trên cùng nội dung và chọn phương án dễ đọc, vừa khổ và phù hợp với mục tiêu. Nghiên cứu thực nghiệm về hình chữ nhật ghi nhận sở thích thay đổi theo người xem và ngữ cảnh. [MathWorld về tỷ lệ vàng](https://mathworld.wolfram.com/GoldenRatio.html) · [Thí nghiệm của McManus](https://pubmed.ncbi.nlm.nih.gov/7437674/) · [Thí nghiệm của Russell](https://pubmed.ncbi.nlm.nih.gov/10742842/)
+
+### Tham khảo hình ảnh và luyện tập
+
+| Nguồn hình | Điều cần quan sát |
+| --- | --- |
+| [Typography và font chữ Việt hóa của PiklabVN](https://www.pinterest.com/piklabvn/typography-v%C3%A0-font-ch%E1%BB%AF-vi%E1%BB%87t-h%C3%B3a/) | Chọn mẫu chữ tiêu đề và mẫu chữ nội dung. So sánh nét, độ đậm, vị trí dấu và khả năng đọc khi thu nhỏ. |
+| [Banner Poster thương mại điện tử của PiklabVN](https://www.pinterest.com/piklabvn/banner-poster-th%C6%B0%C6%A1ng-m%E1%BA%A1i-%C4%91i%E1%BB%87n-t%E1%BB%AD/) và [Mid-Autumn Festival của PiklabVN](https://www.pinterest.com/piklabvn/mid-autumn-festival/) | Với banner, đánh dấu vị trí sản phẩm, ưu đãi và hành động. Với poster Trung thu, thử tách màu nền, màu hỗ trợ, màu nhấn và kiểm xem chi tiết trang trí có cạnh tranh với tiêu đề hay không. |
+| [Vina Vit Lon của Truong Di](https://www.behance.net/gallery/254713217/Vina-Vit-Lon-Display-Typeface) và [Ambi của Vanna Vu](https://typewest.letterformarchive.org/2021/VannaVu_Ambi.html) | Xem cách chuyển chất liệu bảng hiệu, thực đơn hoặc bao bì vào dáng chữ. Để tự luyện, thử kết hợp chữ giàu cá tính với chữ thông tin và đọc thử tiếng Việt ở hai cỡ. |
+| [Concert poster của Josef Müller-Brockmann, 1953](https://www.moma.org/collection/works/6239) | Dùng hình trong bộ sưu tập MoMA để tập vẽ lại các khối chính bằng hình chữ nhật, rồi đánh dấu trục căn và thử mô tả thứ tự đọc. |
+
+Các bảng PiklabVN được xác định từ [hồ sơ Pinterest](https://www.pinterest.com/piklabvn/). Bảng typography gặp lỗi khi mở sâu, nên các bài tập trên là gợi ý quan sát và chưa nhận xét về ghim cụ thể. Khi lưu một mẫu, ghi tên tác phẩm, tác giả hoặc studio nếu xác định được, đường dẫn nguồn gốc và điều muốn học từ mẫu.
+
+**Bài tập tổng hợp.** Dùng cùng nội dung poster “Đêm hội Trăng Rằm”, gồm tên sự kiện, ngày giờ, địa điểm và một hình chính. Dựng ba bố cục theo bảng tỷ lệ, giữ cùng cặp chữ và bảng màu để so sánh. Chọn bản đọc rõ nhất ở dạng thumbnail rồi thử hai phương án màu. Kiểm dấu, tương phản và lề khi in thử ở kích thước thật. Ghi lại yếu tố quyết định lựa chọn.
